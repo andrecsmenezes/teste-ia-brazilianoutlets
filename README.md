@@ -123,5 +123,7 @@ my_app/
 
 3. **Pipeline CI/CD**
    - No arquivo `.github/workflows/ci_cd.yml`, configure o pipeline para instalar dependências, executar testes e realizar o deploy (se aplicável).
+  
+# Observação
 
-Essa estrutura deve ajudar a avaliar de forma abrangente as habilidades técnicas do candidato em IA, SOLID, Clean Code, CI/CD, testes unitários e E2E, e documentação com Swagger.
+Esse modelo não é necessariamente obrigatório. Caso queira fazer de outro jeito fique a vontade, mas explicando as alterações.
